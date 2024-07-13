@@ -4422,3 +4422,1475 @@
                                             </Instrument>
                                         </Order>
                                     </PlaceOrderRequest>
+07/07/2024 08:30:33 PM Inside place_order
+07/07/2024 08:30:33 PM Inside place_order
+07/07/2024 08:30:33 PM Inside place_order
+07/07/2024 08:30:33 PM Inside place_order
+07/07/2024 08:30:34 PM Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Content-Length': '1228', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="c10df2548c9d21c485c54200e11efd1d6963afdf",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720409433",oauth_token="y%2Bla0fS9VZz4zdNTPml5KpuCBMehlpnTJokYz9iNLLU%3D",oauth_version="1.0",oauth_signature="wzIVxH%2Fa7J0o%2FNeRs%2F0ZJeXCS30%3D"'}
+07/07/2024 08:30:34 PM Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Content-Length': '1228', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="c10df2548c9d21c485c54200e11efd1d6963afdf",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720409433",oauth_token="y%2Bla0fS9VZz4zdNTPml5KpuCBMehlpnTJokYz9iNLLU%3D",oauth_version="1.0",oauth_signature="wzIVxH%2Fa7J0o%2FNeRs%2F0ZJeXCS30%3D"'}
+07/07/2024 08:30:34 PM Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Content-Length': '1228', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="c10df2548c9d21c485c54200e11efd1d6963afdf",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720409433",oauth_token="y%2Bla0fS9VZz4zdNTPml5KpuCBMehlpnTJokYz9iNLLU%3D",oauth_version="1.0",oauth_signature="wzIVxH%2Fa7J0o%2FNeRs%2F0ZJeXCS30%3D"'}
+07/07/2024 08:30:34 PM Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Content-Length': '1228', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="c10df2548c9d21c485c54200e11efd1d6963afdf",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720409433",oauth_token="y%2Bla0fS9VZz4zdNTPml5KpuCBMehlpnTJokYz9iNLLU%3D",oauth_version="1.0",oauth_signature="wzIVxH%2Fa7J0o%2FNeRs%2F0ZJeXCS30%3D"'}
+07/07/2024 08:30:34 PM Request payload: <PreviewOrderRequest>
+                               <orderType>EQ</orderType>
+                               <clientOrderId>8092443539</clientOrderId>
+                               <Order>
+                                   <allOrNone>false</allOrNone>
+                                   <priceType>LIMIT</priceType>
+                                   <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                   <marketSession>REGULAR</marketSession>
+                                   <stopPrice></stopPrice>
+                                   <limitPrice>0.0045</limitPrice>
+                                   <Instrument>
+                                       <Product>
+                                           <securityType>EQ</securityType>
+                                           <symbol>SCPX</symbol>
+                                       </Product>
+                                       <orderAction>BUY</orderAction>
+                                       <quantityType>QUANTITY</quantityType>
+                                       <quantity>22200</quantity>
+                                   </Instrument>
+                               </Order>
+                           </PreviewOrderRequest>
+07/07/2024 08:30:34 PM Request payload: <PreviewOrderRequest>
+                               <orderType>EQ</orderType>
+                               <clientOrderId>8092443539</clientOrderId>
+                               <Order>
+                                   <allOrNone>false</allOrNone>
+                                   <priceType>LIMIT</priceType>
+                                   <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                   <marketSession>REGULAR</marketSession>
+                                   <stopPrice></stopPrice>
+                                   <limitPrice>0.0045</limitPrice>
+                                   <Instrument>
+                                       <Product>
+                                           <securityType>EQ</securityType>
+                                           <symbol>SCPX</symbol>
+                                       </Product>
+                                       <orderAction>BUY</orderAction>
+                                       <quantityType>QUANTITY</quantityType>
+                                       <quantity>22200</quantity>
+                                   </Instrument>
+                               </Order>
+                           </PreviewOrderRequest>
+07/07/2024 08:30:34 PM Request payload: <PreviewOrderRequest>
+                               <orderType>EQ</orderType>
+                               <clientOrderId>8092443539</clientOrderId>
+                               <Order>
+                                   <allOrNone>false</allOrNone>
+                                   <priceType>LIMIT</priceType>
+                                   <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                   <marketSession>REGULAR</marketSession>
+                                   <stopPrice></stopPrice>
+                                   <limitPrice>0.0045</limitPrice>
+                                   <Instrument>
+                                       <Product>
+                                           <securityType>EQ</securityType>
+                                           <symbol>SCPX</symbol>
+                                       </Product>
+                                       <orderAction>BUY</orderAction>
+                                       <quantityType>QUANTITY</quantityType>
+                                       <quantity>22200</quantity>
+                                   </Instrument>
+                               </Order>
+                           </PreviewOrderRequest>
+07/07/2024 08:30:34 PM Request payload: <PreviewOrderRequest>
+                               <orderType>EQ</orderType>
+                               <clientOrderId>8092443539</clientOrderId>
+                               <Order>
+                                   <allOrNone>false</allOrNone>
+                                   <priceType>LIMIT</priceType>
+                                   <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                   <marketSession>REGULAR</marketSession>
+                                   <stopPrice></stopPrice>
+                                   <limitPrice>0.0045</limitPrice>
+                                   <Instrument>
+                                       <Product>
+                                           <securityType>EQ</securityType>
+                                           <symbol>SCPX</symbol>
+                                       </Product>
+                                       <orderAction>BUY</orderAction>
+                                       <quantityType>QUANTITY</quantityType>
+                                       <quantity>22200</quantity>
+                                   </Instrument>
+                               </Order>
+                           </PreviewOrderRequest>
+07/07/2024 08:30:34 PM Brent - Preview Response Body: {
+    "PreviewOrderResponse": {
+        "Disclosure": {
+            "ahDisclosureFlag": true,
+            "aoDisclosureFlag": true,
+            "conditionalDisclosureFlag": true,
+            "ehDisclosureFlag": true
+        },
+        "Order": [
+            {
+                "Instrument": [
+                    {
+                        "Product": {
+                            "securityType": "EQ",
+                            "symbol": "SCPX"
+                        },
+                        "cancelQuantity": 0.0,
+                        "orderAction": "BUY",
+                        "quantity": 22200,
+                        "quantityType": "QUANTITY",
+                        "reserveOrder": true,
+                        "reserveQuantity": 0.0,
+                        "symbolDescription": "SCORPIUS HOLDINGS INC COM"
+                    }
+                ],
+                "allOrNone": false,
+                "egQual": "EG_QUAL_NOT_IN_FORCE",
+                "estimatedCommission": 6.95,
+                "estimatedTotalAmount": 106.85,
+                "gcd": 0,
+                "limitPrice": 0.0045,
+                "marketSession": "REGULAR",
+                "netAsk": 0,
+                "netBid": 0,
+                "netPrice": 0,
+                "orderTerm": "GOOD_FOR_DAY",
+                "priceType": "LIMIT",
+                "ratio": "",
+                "stopPrice": 0
+            }
+        ],
+        "PreviewIds": [
+            {
+                "previewId": 1890032635106
+            }
+        ],
+        "accountId": "151706697",
+        "dstFlag": true,
+        "marginBpDetails": {
+            "marginable": {
+                "currentBp": 1244.39,
+                "currentNetBp": 1244.39,
+                "currentOor": 0.0,
+                "currentOrderImpact": 106.85,
+                "netBp": 1137.54
+            },
+            "nonMarginable": {
+                "currentBp": 1244.39
+            }
+        },
+        "marginLevelCd": "MARGIN_TRADING_ALLOWED",
+        "optionLevelCd": 0,
+        "orderType": "EQ",
+        "previewTime": 1720409434025,
+        "totalOrderValue": 106.85
+    }
+}
+07/07/2024 08:30:34 PM Brent - Preview Response Body: {
+    "PreviewOrderResponse": {
+        "Disclosure": {
+            "ahDisclosureFlag": true,
+            "aoDisclosureFlag": true,
+            "conditionalDisclosureFlag": true,
+            "ehDisclosureFlag": true
+        },
+        "Order": [
+            {
+                "Instrument": [
+                    {
+                        "Product": {
+                            "securityType": "EQ",
+                            "symbol": "SCPX"
+                        },
+                        "cancelQuantity": 0.0,
+                        "orderAction": "BUY",
+                        "quantity": 22200,
+                        "quantityType": "QUANTITY",
+                        "reserveOrder": true,
+                        "reserveQuantity": 0.0,
+                        "symbolDescription": "SCORPIUS HOLDINGS INC COM"
+                    }
+                ],
+                "allOrNone": false,
+                "egQual": "EG_QUAL_NOT_IN_FORCE",
+                "estimatedCommission": 6.95,
+                "estimatedTotalAmount": 106.85,
+                "gcd": 0,
+                "limitPrice": 0.0045,
+                "marketSession": "REGULAR",
+                "netAsk": 0,
+                "netBid": 0,
+                "netPrice": 0,
+                "orderTerm": "GOOD_FOR_DAY",
+                "priceType": "LIMIT",
+                "ratio": "",
+                "stopPrice": 0
+            }
+        ],
+        "PreviewIds": [
+            {
+                "previewId": 1890032635106
+            }
+        ],
+        "accountId": "151706697",
+        "dstFlag": true,
+        "marginBpDetails": {
+            "marginable": {
+                "currentBp": 1244.39,
+                "currentNetBp": 1244.39,
+                "currentOor": 0.0,
+                "currentOrderImpact": 106.85,
+                "netBp": 1137.54
+            },
+            "nonMarginable": {
+                "currentBp": 1244.39
+            }
+        },
+        "marginLevelCd": "MARGIN_TRADING_ALLOWED",
+        "optionLevelCd": 0,
+        "orderType": "EQ",
+        "previewTime": 1720409434025,
+        "totalOrderValue": 106.85
+    }
+}
+07/07/2024 08:30:34 PM Brent - Preview Response Body: {
+    "PreviewOrderResponse": {
+        "Disclosure": {
+            "ahDisclosureFlag": true,
+            "aoDisclosureFlag": true,
+            "conditionalDisclosureFlag": true,
+            "ehDisclosureFlag": true
+        },
+        "Order": [
+            {
+                "Instrument": [
+                    {
+                        "Product": {
+                            "securityType": "EQ",
+                            "symbol": "SCPX"
+                        },
+                        "cancelQuantity": 0.0,
+                        "orderAction": "BUY",
+                        "quantity": 22200,
+                        "quantityType": "QUANTITY",
+                        "reserveOrder": true,
+                        "reserveQuantity": 0.0,
+                        "symbolDescription": "SCORPIUS HOLDINGS INC COM"
+                    }
+                ],
+                "allOrNone": false,
+                "egQual": "EG_QUAL_NOT_IN_FORCE",
+                "estimatedCommission": 6.95,
+                "estimatedTotalAmount": 106.85,
+                "gcd": 0,
+                "limitPrice": 0.0045,
+                "marketSession": "REGULAR",
+                "netAsk": 0,
+                "netBid": 0,
+                "netPrice": 0,
+                "orderTerm": "GOOD_FOR_DAY",
+                "priceType": "LIMIT",
+                "ratio": "",
+                "stopPrice": 0
+            }
+        ],
+        "PreviewIds": [
+            {
+                "previewId": 1890032635106
+            }
+        ],
+        "accountId": "151706697",
+        "dstFlag": true,
+        "marginBpDetails": {
+            "marginable": {
+                "currentBp": 1244.39,
+                "currentNetBp": 1244.39,
+                "currentOor": 0.0,
+                "currentOrderImpact": 106.85,
+                "netBp": 1137.54
+            },
+            "nonMarginable": {
+                "currentBp": 1244.39
+            }
+        },
+        "marginLevelCd": "MARGIN_TRADING_ALLOWED",
+        "optionLevelCd": 0,
+        "orderType": "EQ",
+        "previewTime": 1720409434025,
+        "totalOrderValue": 106.85
+    }
+}
+07/07/2024 08:30:34 PM Brent - Preview Response Body: {
+    "PreviewOrderResponse": {
+        "Disclosure": {
+            "ahDisclosureFlag": true,
+            "aoDisclosureFlag": true,
+            "conditionalDisclosureFlag": true,
+            "ehDisclosureFlag": true
+        },
+        "Order": [
+            {
+                "Instrument": [
+                    {
+                        "Product": {
+                            "securityType": "EQ",
+                            "symbol": "SCPX"
+                        },
+                        "cancelQuantity": 0.0,
+                        "orderAction": "BUY",
+                        "quantity": 22200,
+                        "quantityType": "QUANTITY",
+                        "reserveOrder": true,
+                        "reserveQuantity": 0.0,
+                        "symbolDescription": "SCORPIUS HOLDINGS INC COM"
+                    }
+                ],
+                "allOrNone": false,
+                "egQual": "EG_QUAL_NOT_IN_FORCE",
+                "estimatedCommission": 6.95,
+                "estimatedTotalAmount": 106.85,
+                "gcd": 0,
+                "limitPrice": 0.0045,
+                "marketSession": "REGULAR",
+                "netAsk": 0,
+                "netBid": 0,
+                "netPrice": 0,
+                "orderTerm": "GOOD_FOR_DAY",
+                "priceType": "LIMIT",
+                "ratio": "",
+                "stopPrice": 0
+            }
+        ],
+        "PreviewIds": [
+            {
+                "previewId": 1890032635106
+            }
+        ],
+        "accountId": "151706697",
+        "dstFlag": true,
+        "marginBpDetails": {
+            "marginable": {
+                "currentBp": 1244.39,
+                "currentNetBp": 1244.39,
+                "currentOor": 0.0,
+                "currentOrderImpact": 106.85,
+                "netBp": 1137.54
+            },
+            "nonMarginable": {
+                "currentBp": 1244.39
+            }
+        },
+        "marginLevelCd": "MARGIN_TRADING_ALLOWED",
+        "optionLevelCd": 0,
+        "orderType": "EQ",
+        "previewTime": 1720409434025,
+        "totalOrderValue": 106.85
+    }
+}
+07/07/2024 08:30:34 PM Brent Order Response Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Cookie': 'JSESSIONID=956788531889DB8111C6E922BDC17710.tomcat1', 'Content-Length': '1513', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="b478ac58d3b3dece211f62f58673c27dc4a7af70",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720409434",oauth_token="y%2Bla0fS9VZz4zdNTPml5KpuCBMehlpnTJokYz9iNLLU%3D",oauth_version="1.0",oauth_signature="n%2BWl6WeiLqS39cbtzD2W2qh9W3E%3D"'}
+07/07/2024 08:30:34 PM Brent Order Response Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Cookie': 'JSESSIONID=956788531889DB8111C6E922BDC17710.tomcat1', 'Content-Length': '1513', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="b478ac58d3b3dece211f62f58673c27dc4a7af70",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720409434",oauth_token="y%2Bla0fS9VZz4zdNTPml5KpuCBMehlpnTJokYz9iNLLU%3D",oauth_version="1.0",oauth_signature="n%2BWl6WeiLqS39cbtzD2W2qh9W3E%3D"'}
+07/07/2024 08:30:34 PM Brent Order Response Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Cookie': 'JSESSIONID=956788531889DB8111C6E922BDC17710.tomcat1', 'Content-Length': '1513', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="b478ac58d3b3dece211f62f58673c27dc4a7af70",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720409434",oauth_token="y%2Bla0fS9VZz4zdNTPml5KpuCBMehlpnTJokYz9iNLLU%3D",oauth_version="1.0",oauth_signature="n%2BWl6WeiLqS39cbtzD2W2qh9W3E%3D"'}
+07/07/2024 08:30:34 PM Brent Order Response Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Cookie': 'JSESSIONID=956788531889DB8111C6E922BDC17710.tomcat1', 'Content-Length': '1513', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="b478ac58d3b3dece211f62f58673c27dc4a7af70",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720409434",oauth_token="y%2Bla0fS9VZz4zdNTPml5KpuCBMehlpnTJokYz9iNLLU%3D",oauth_version="1.0",oauth_signature="n%2BWl6WeiLqS39cbtzD2W2qh9W3E%3D"'}
+07/07/2024 08:30:34 PM Brent Order Response Request payload: <PlaceOrderRequest>
+                                        <orderType>EQ</orderType>
+                                        <clientOrderId>8092443539</clientOrderId>
+                                        <PreviewIds>
+    <previewId>1890032635106</previewId>
+</PreviewIds>
+                                        <Order>
+                                            <allOrNone>false</allOrNone>
+                                            <priceType>LIMIT</priceType>
+                                            <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                            <marketSession>REGULAR</marketSession>
+                                            <stopPrice>0</stopPrice>
+                                            <limitPrice>0.0045</limitPrice>
+                                            <Instrument>
+                                                <Product>
+                                                    <securityType>EQ</securityType>
+                                                    <symbol>SCPX</symbol>
+                                                </Product>
+                                                <orderAction>BUY</orderAction>
+                                                <quantityType>QUANTITY</quantityType>
+                                                <quantity>22200</quantity>
+                                            </Instrument>
+                                        </Order>
+                                    </PlaceOrderRequest>
+07/07/2024 08:30:34 PM Brent Order Response Request payload: <PlaceOrderRequest>
+                                        <orderType>EQ</orderType>
+                                        <clientOrderId>8092443539</clientOrderId>
+                                        <PreviewIds>
+    <previewId>1890032635106</previewId>
+</PreviewIds>
+                                        <Order>
+                                            <allOrNone>false</allOrNone>
+                                            <priceType>LIMIT</priceType>
+                                            <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                            <marketSession>REGULAR</marketSession>
+                                            <stopPrice>0</stopPrice>
+                                            <limitPrice>0.0045</limitPrice>
+                                            <Instrument>
+                                                <Product>
+                                                    <securityType>EQ</securityType>
+                                                    <symbol>SCPX</symbol>
+                                                </Product>
+                                                <orderAction>BUY</orderAction>
+                                                <quantityType>QUANTITY</quantityType>
+                                                <quantity>22200</quantity>
+                                            </Instrument>
+                                        </Order>
+                                    </PlaceOrderRequest>
+07/07/2024 08:30:34 PM Brent Order Response Request payload: <PlaceOrderRequest>
+                                        <orderType>EQ</orderType>
+                                        <clientOrderId>8092443539</clientOrderId>
+                                        <PreviewIds>
+    <previewId>1890032635106</previewId>
+</PreviewIds>
+                                        <Order>
+                                            <allOrNone>false</allOrNone>
+                                            <priceType>LIMIT</priceType>
+                                            <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                            <marketSession>REGULAR</marketSession>
+                                            <stopPrice>0</stopPrice>
+                                            <limitPrice>0.0045</limitPrice>
+                                            <Instrument>
+                                                <Product>
+                                                    <securityType>EQ</securityType>
+                                                    <symbol>SCPX</symbol>
+                                                </Product>
+                                                <orderAction>BUY</orderAction>
+                                                <quantityType>QUANTITY</quantityType>
+                                                <quantity>22200</quantity>
+                                            </Instrument>
+                                        </Order>
+                                    </PlaceOrderRequest>
+07/07/2024 08:30:34 PM Brent Order Response Request payload: <PlaceOrderRequest>
+                                        <orderType>EQ</orderType>
+                                        <clientOrderId>8092443539</clientOrderId>
+                                        <PreviewIds>
+    <previewId>1890032635106</previewId>
+</PreviewIds>
+                                        <Order>
+                                            <allOrNone>false</allOrNone>
+                                            <priceType>LIMIT</priceType>
+                                            <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                            <marketSession>REGULAR</marketSession>
+                                            <stopPrice>0</stopPrice>
+                                            <limitPrice>0.0045</limitPrice>
+                                            <Instrument>
+                                                <Product>
+                                                    <securityType>EQ</securityType>
+                                                    <symbol>SCPX</symbol>
+                                                </Product>
+                                                <orderAction>BUY</orderAction>
+                                                <quantityType>QUANTITY</quantityType>
+                                                <quantity>22200</quantity>
+                                            </Instrument>
+                                        </Order>
+                                    </PlaceOrderRequest>
+07/08/2024 05:53:34 AM Inside place_order
+07/08/2024 05:53:34 AM Inside place_order
+07/08/2024 05:53:34 AM Inside place_order
+07/08/2024 05:53:34 AM Inside place_order
+07/08/2024 05:53:35 AM Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Content-Length': '1227', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="09e1e32d249e8feffb0b5aeec3b348201448bce1",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720443214",oauth_token="Ec5aRcxVwUN7k0OToLpWUbPwIIY0sY6n0JIoTXkFIfc%3D",oauth_version="1.0",oauth_signature="KORKYhM6mwUDLI2Sc0dOJoxJ6dk%3D"'}
+07/08/2024 05:53:35 AM Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Content-Length': '1227', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="09e1e32d249e8feffb0b5aeec3b348201448bce1",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720443214",oauth_token="Ec5aRcxVwUN7k0OToLpWUbPwIIY0sY6n0JIoTXkFIfc%3D",oauth_version="1.0",oauth_signature="KORKYhM6mwUDLI2Sc0dOJoxJ6dk%3D"'}
+07/08/2024 05:53:35 AM Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Content-Length': '1227', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="09e1e32d249e8feffb0b5aeec3b348201448bce1",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720443214",oauth_token="Ec5aRcxVwUN7k0OToLpWUbPwIIY0sY6n0JIoTXkFIfc%3D",oauth_version="1.0",oauth_signature="KORKYhM6mwUDLI2Sc0dOJoxJ6dk%3D"'}
+07/08/2024 05:53:35 AM Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Content-Length': '1227', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="09e1e32d249e8feffb0b5aeec3b348201448bce1",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720443214",oauth_token="Ec5aRcxVwUN7k0OToLpWUbPwIIY0sY6n0JIoTXkFIfc%3D",oauth_version="1.0",oauth_signature="KORKYhM6mwUDLI2Sc0dOJoxJ6dk%3D"'}
+07/08/2024 05:53:35 AM Request payload: <PreviewOrderRequest>
+                               <orderType>EQ</orderType>
+                               <clientOrderId>6721197724</clientOrderId>
+                               <Order>
+                                   <allOrNone>false</allOrNone>
+                                   <priceType>LIMIT</priceType>
+                                   <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                   <marketSession>REGULAR</marketSession>
+                                   <stopPrice></stopPrice>
+                                   <limitPrice>0.066</limitPrice>
+                                   <Instrument>
+                                       <Product>
+                                           <securityType>EQ</securityType>
+                                           <symbol>VREOF</symbol>
+                                       </Product>
+                                       <orderAction>BUY</orderAction>
+                                       <quantityType>QUANTITY</quantityType>
+                                       <quantity>1500</quantity>
+                                   </Instrument>
+                               </Order>
+                           </PreviewOrderRequest>
+07/08/2024 05:53:35 AM Request payload: <PreviewOrderRequest>
+                               <orderType>EQ</orderType>
+                               <clientOrderId>6721197724</clientOrderId>
+                               <Order>
+                                   <allOrNone>false</allOrNone>
+                                   <priceType>LIMIT</priceType>
+                                   <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                   <marketSession>REGULAR</marketSession>
+                                   <stopPrice></stopPrice>
+                                   <limitPrice>0.066</limitPrice>
+                                   <Instrument>
+                                       <Product>
+                                           <securityType>EQ</securityType>
+                                           <symbol>VREOF</symbol>
+                                       </Product>
+                                       <orderAction>BUY</orderAction>
+                                       <quantityType>QUANTITY</quantityType>
+                                       <quantity>1500</quantity>
+                                   </Instrument>
+                               </Order>
+                           </PreviewOrderRequest>
+07/08/2024 05:53:35 AM Request payload: <PreviewOrderRequest>
+                               <orderType>EQ</orderType>
+                               <clientOrderId>6721197724</clientOrderId>
+                               <Order>
+                                   <allOrNone>false</allOrNone>
+                                   <priceType>LIMIT</priceType>
+                                   <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                   <marketSession>REGULAR</marketSession>
+                                   <stopPrice></stopPrice>
+                                   <limitPrice>0.066</limitPrice>
+                                   <Instrument>
+                                       <Product>
+                                           <securityType>EQ</securityType>
+                                           <symbol>VREOF</symbol>
+                                       </Product>
+                                       <orderAction>BUY</orderAction>
+                                       <quantityType>QUANTITY</quantityType>
+                                       <quantity>1500</quantity>
+                                   </Instrument>
+                               </Order>
+                           </PreviewOrderRequest>
+07/08/2024 05:53:35 AM Request payload: <PreviewOrderRequest>
+                               <orderType>EQ</orderType>
+                               <clientOrderId>6721197724</clientOrderId>
+                               <Order>
+                                   <allOrNone>false</allOrNone>
+                                   <priceType>LIMIT</priceType>
+                                   <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                   <marketSession>REGULAR</marketSession>
+                                   <stopPrice></stopPrice>
+                                   <limitPrice>0.066</limitPrice>
+                                   <Instrument>
+                                       <Product>
+                                           <securityType>EQ</securityType>
+                                           <symbol>VREOF</symbol>
+                                       </Product>
+                                       <orderAction>BUY</orderAction>
+                                       <quantityType>QUANTITY</quantityType>
+                                       <quantity>1500</quantity>
+                                   </Instrument>
+                               </Order>
+                           </PreviewOrderRequest>
+07/08/2024 05:55:32 AM Inside place_order
+07/08/2024 05:55:32 AM Inside place_order
+07/08/2024 05:55:32 AM Inside place_order
+07/08/2024 05:55:32 AM Inside place_order
+07/08/2024 05:55:32 AM Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Content-Length': '1227', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="7c62597472ce64d68b63f464661bdba9bbf2d402",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720443332",oauth_token="ThOJbDPVGuxMuqejW%2BEsnE049KNejtTZ5eafZKEo1J0%3D",oauth_version="1.0",oauth_signature="%2F%2BEArX6I53g9t1M57Z4PrpJsEE0%3D"'}
+07/08/2024 05:55:32 AM Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Content-Length': '1227', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="7c62597472ce64d68b63f464661bdba9bbf2d402",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720443332",oauth_token="ThOJbDPVGuxMuqejW%2BEsnE049KNejtTZ5eafZKEo1J0%3D",oauth_version="1.0",oauth_signature="%2F%2BEArX6I53g9t1M57Z4PrpJsEE0%3D"'}
+07/08/2024 05:55:32 AM Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Content-Length': '1227', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="7c62597472ce64d68b63f464661bdba9bbf2d402",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720443332",oauth_token="ThOJbDPVGuxMuqejW%2BEsnE049KNejtTZ5eafZKEo1J0%3D",oauth_version="1.0",oauth_signature="%2F%2BEArX6I53g9t1M57Z4PrpJsEE0%3D"'}
+07/08/2024 05:55:32 AM Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Content-Length': '1227', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="7c62597472ce64d68b63f464661bdba9bbf2d402",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720443332",oauth_token="ThOJbDPVGuxMuqejW%2BEsnE049KNejtTZ5eafZKEo1J0%3D",oauth_version="1.0",oauth_signature="%2F%2BEArX6I53g9t1M57Z4PrpJsEE0%3D"'}
+07/08/2024 05:55:32 AM Request payload: <PreviewOrderRequest>
+                               <orderType>EQ</orderType>
+                               <clientOrderId>3931165508</clientOrderId>
+                               <Order>
+                                   <allOrNone>false</allOrNone>
+                                   <priceType>LIMIT</priceType>
+                                   <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                   <marketSession>REGULAR</marketSession>
+                                   <stopPrice></stopPrice>
+                                   <limitPrice>0.066</limitPrice>
+                                   <Instrument>
+                                       <Product>
+                                           <securityType>EQ</securityType>
+                                           <symbol>VREOF</symbol>
+                                       </Product>
+                                       <orderAction>BUY</orderAction>
+                                       <quantityType>QUANTITY</quantityType>
+                                       <quantity>1500</quantity>
+                                   </Instrument>
+                               </Order>
+                           </PreviewOrderRequest>
+07/08/2024 05:55:32 AM Request payload: <PreviewOrderRequest>
+                               <orderType>EQ</orderType>
+                               <clientOrderId>3931165508</clientOrderId>
+                               <Order>
+                                   <allOrNone>false</allOrNone>
+                                   <priceType>LIMIT</priceType>
+                                   <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                   <marketSession>REGULAR</marketSession>
+                                   <stopPrice></stopPrice>
+                                   <limitPrice>0.066</limitPrice>
+                                   <Instrument>
+                                       <Product>
+                                           <securityType>EQ</securityType>
+                                           <symbol>VREOF</symbol>
+                                       </Product>
+                                       <orderAction>BUY</orderAction>
+                                       <quantityType>QUANTITY</quantityType>
+                                       <quantity>1500</quantity>
+                                   </Instrument>
+                               </Order>
+                           </PreviewOrderRequest>
+07/08/2024 05:55:32 AM Request payload: <PreviewOrderRequest>
+                               <orderType>EQ</orderType>
+                               <clientOrderId>3931165508</clientOrderId>
+                               <Order>
+                                   <allOrNone>false</allOrNone>
+                                   <priceType>LIMIT</priceType>
+                                   <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                   <marketSession>REGULAR</marketSession>
+                                   <stopPrice></stopPrice>
+                                   <limitPrice>0.066</limitPrice>
+                                   <Instrument>
+                                       <Product>
+                                           <securityType>EQ</securityType>
+                                           <symbol>VREOF</symbol>
+                                       </Product>
+                                       <orderAction>BUY</orderAction>
+                                       <quantityType>QUANTITY</quantityType>
+                                       <quantity>1500</quantity>
+                                   </Instrument>
+                               </Order>
+                           </PreviewOrderRequest>
+07/08/2024 05:55:32 AM Request payload: <PreviewOrderRequest>
+                               <orderType>EQ</orderType>
+                               <clientOrderId>3931165508</clientOrderId>
+                               <Order>
+                                   <allOrNone>false</allOrNone>
+                                   <priceType>LIMIT</priceType>
+                                   <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                   <marketSession>REGULAR</marketSession>
+                                   <stopPrice></stopPrice>
+                                   <limitPrice>0.066</limitPrice>
+                                   <Instrument>
+                                       <Product>
+                                           <securityType>EQ</securityType>
+                                           <symbol>VREOF</symbol>
+                                       </Product>
+                                       <orderAction>BUY</orderAction>
+                                       <quantityType>QUANTITY</quantityType>
+                                       <quantity>1500</quantity>
+                                   </Instrument>
+                               </Order>
+                           </PreviewOrderRequest>
+07/08/2024 05:55:32 AM Brent - Preview Response Body: {
+    "PreviewOrderResponse": {
+        "Disclosure": {
+            "ahDisclosureFlag": true,
+            "aoDisclosureFlag": true,
+            "conditionalDisclosureFlag": true,
+            "ehDisclosureFlag": true
+        },
+        "Order": [
+            {
+                "Instrument": [
+                    {
+                        "Product": {
+                            "securityType": "EQ",
+                            "symbol": "VREOF"
+                        },
+                        "cancelQuantity": 0.0,
+                        "orderAction": "BUY",
+                        "quantity": 1500,
+                        "quantityType": "QUANTITY",
+                        "reserveOrder": true,
+                        "reserveQuantity": 0.0,
+                        "symbolDescription": "VIREO GROWTH INC COM"
+                    }
+                ],
+                "allOrNone": false,
+                "egQual": "EG_QUAL_NOT_IN_FORCE",
+                "estimatedCommission": 6.95,
+                "estimatedTotalAmount": 105.95,
+                "gcd": 0,
+                "limitPrice": 0.066,
+                "marketSession": "REGULAR",
+                "netAsk": 0,
+                "netBid": 0,
+                "netPrice": 0,
+                "orderTerm": "GOOD_FOR_DAY",
+                "priceType": "LIMIT",
+                "ratio": "",
+                "stopPrice": 0
+            }
+        ],
+        "PreviewIds": [
+            {
+                "previewId": 1890104596106
+            }
+        ],
+        "accountId": "151706697",
+        "dstFlag": true,
+        "marginBpDetails": {
+            "marginable": {
+                "currentBp": 1244.39,
+                "currentNetBp": 1244.39,
+                "currentOor": 0.0,
+                "currentOrderImpact": 105.95,
+                "netBp": 1138.44
+            },
+            "nonMarginable": {
+                "currentBp": 1244.39
+            }
+        },
+        "marginLevelCd": "MARGIN_TRADING_ALLOWED",
+        "optionLevelCd": 0,
+        "orderType": "EQ",
+        "previewTime": 1720443332537,
+        "totalOrderValue": 105.95
+    }
+}
+07/08/2024 05:55:32 AM Brent - Preview Response Body: {
+    "PreviewOrderResponse": {
+        "Disclosure": {
+            "ahDisclosureFlag": true,
+            "aoDisclosureFlag": true,
+            "conditionalDisclosureFlag": true,
+            "ehDisclosureFlag": true
+        },
+        "Order": [
+            {
+                "Instrument": [
+                    {
+                        "Product": {
+                            "securityType": "EQ",
+                            "symbol": "VREOF"
+                        },
+                        "cancelQuantity": 0.0,
+                        "orderAction": "BUY",
+                        "quantity": 1500,
+                        "quantityType": "QUANTITY",
+                        "reserveOrder": true,
+                        "reserveQuantity": 0.0,
+                        "symbolDescription": "VIREO GROWTH INC COM"
+                    }
+                ],
+                "allOrNone": false,
+                "egQual": "EG_QUAL_NOT_IN_FORCE",
+                "estimatedCommission": 6.95,
+                "estimatedTotalAmount": 105.95,
+                "gcd": 0,
+                "limitPrice": 0.066,
+                "marketSession": "REGULAR",
+                "netAsk": 0,
+                "netBid": 0,
+                "netPrice": 0,
+                "orderTerm": "GOOD_FOR_DAY",
+                "priceType": "LIMIT",
+                "ratio": "",
+                "stopPrice": 0
+            }
+        ],
+        "PreviewIds": [
+            {
+                "previewId": 1890104596106
+            }
+        ],
+        "accountId": "151706697",
+        "dstFlag": true,
+        "marginBpDetails": {
+            "marginable": {
+                "currentBp": 1244.39,
+                "currentNetBp": 1244.39,
+                "currentOor": 0.0,
+                "currentOrderImpact": 105.95,
+                "netBp": 1138.44
+            },
+            "nonMarginable": {
+                "currentBp": 1244.39
+            }
+        },
+        "marginLevelCd": "MARGIN_TRADING_ALLOWED",
+        "optionLevelCd": 0,
+        "orderType": "EQ",
+        "previewTime": 1720443332537,
+        "totalOrderValue": 105.95
+    }
+}
+07/08/2024 05:55:32 AM Brent - Preview Response Body: {
+    "PreviewOrderResponse": {
+        "Disclosure": {
+            "ahDisclosureFlag": true,
+            "aoDisclosureFlag": true,
+            "conditionalDisclosureFlag": true,
+            "ehDisclosureFlag": true
+        },
+        "Order": [
+            {
+                "Instrument": [
+                    {
+                        "Product": {
+                            "securityType": "EQ",
+                            "symbol": "VREOF"
+                        },
+                        "cancelQuantity": 0.0,
+                        "orderAction": "BUY",
+                        "quantity": 1500,
+                        "quantityType": "QUANTITY",
+                        "reserveOrder": true,
+                        "reserveQuantity": 0.0,
+                        "symbolDescription": "VIREO GROWTH INC COM"
+                    }
+                ],
+                "allOrNone": false,
+                "egQual": "EG_QUAL_NOT_IN_FORCE",
+                "estimatedCommission": 6.95,
+                "estimatedTotalAmount": 105.95,
+                "gcd": 0,
+                "limitPrice": 0.066,
+                "marketSession": "REGULAR",
+                "netAsk": 0,
+                "netBid": 0,
+                "netPrice": 0,
+                "orderTerm": "GOOD_FOR_DAY",
+                "priceType": "LIMIT",
+                "ratio": "",
+                "stopPrice": 0
+            }
+        ],
+        "PreviewIds": [
+            {
+                "previewId": 1890104596106
+            }
+        ],
+        "accountId": "151706697",
+        "dstFlag": true,
+        "marginBpDetails": {
+            "marginable": {
+                "currentBp": 1244.39,
+                "currentNetBp": 1244.39,
+                "currentOor": 0.0,
+                "currentOrderImpact": 105.95,
+                "netBp": 1138.44
+            },
+            "nonMarginable": {
+                "currentBp": 1244.39
+            }
+        },
+        "marginLevelCd": "MARGIN_TRADING_ALLOWED",
+        "optionLevelCd": 0,
+        "orderType": "EQ",
+        "previewTime": 1720443332537,
+        "totalOrderValue": 105.95
+    }
+}
+07/08/2024 05:55:32 AM Brent - Preview Response Body: {
+    "PreviewOrderResponse": {
+        "Disclosure": {
+            "ahDisclosureFlag": true,
+            "aoDisclosureFlag": true,
+            "conditionalDisclosureFlag": true,
+            "ehDisclosureFlag": true
+        },
+        "Order": [
+            {
+                "Instrument": [
+                    {
+                        "Product": {
+                            "securityType": "EQ",
+                            "symbol": "VREOF"
+                        },
+                        "cancelQuantity": 0.0,
+                        "orderAction": "BUY",
+                        "quantity": 1500,
+                        "quantityType": "QUANTITY",
+                        "reserveOrder": true,
+                        "reserveQuantity": 0.0,
+                        "symbolDescription": "VIREO GROWTH INC COM"
+                    }
+                ],
+                "allOrNone": false,
+                "egQual": "EG_QUAL_NOT_IN_FORCE",
+                "estimatedCommission": 6.95,
+                "estimatedTotalAmount": 105.95,
+                "gcd": 0,
+                "limitPrice": 0.066,
+                "marketSession": "REGULAR",
+                "netAsk": 0,
+                "netBid": 0,
+                "netPrice": 0,
+                "orderTerm": "GOOD_FOR_DAY",
+                "priceType": "LIMIT",
+                "ratio": "",
+                "stopPrice": 0
+            }
+        ],
+        "PreviewIds": [
+            {
+                "previewId": 1890104596106
+            }
+        ],
+        "accountId": "151706697",
+        "dstFlag": true,
+        "marginBpDetails": {
+            "marginable": {
+                "currentBp": 1244.39,
+                "currentNetBp": 1244.39,
+                "currentOor": 0.0,
+                "currentOrderImpact": 105.95,
+                "netBp": 1138.44
+            },
+            "nonMarginable": {
+                "currentBp": 1244.39
+            }
+        },
+        "marginLevelCd": "MARGIN_TRADING_ALLOWED",
+        "optionLevelCd": 0,
+        "orderType": "EQ",
+        "previewTime": 1720443332537,
+        "totalOrderValue": 105.95
+    }
+}
+07/08/2024 05:55:33 AM Brent Order Response Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Cookie': 'JSESSIONID=1063B3371B3D0D68D1430335BADF3ADE.tomcat3', 'Content-Length': '1512', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="d2fa6b189c2fcaad525c02f9b7f25f837c30a15f",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720443332",oauth_token="ThOJbDPVGuxMuqejW%2BEsnE049KNejtTZ5eafZKEo1J0%3D",oauth_version="1.0",oauth_signature="i25WFgz%2FvmD6qDihVONYR0SPiSI%3D"'}
+07/08/2024 05:55:33 AM Brent Order Response Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Cookie': 'JSESSIONID=1063B3371B3D0D68D1430335BADF3ADE.tomcat3', 'Content-Length': '1512', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="d2fa6b189c2fcaad525c02f9b7f25f837c30a15f",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720443332",oauth_token="ThOJbDPVGuxMuqejW%2BEsnE049KNejtTZ5eafZKEo1J0%3D",oauth_version="1.0",oauth_signature="i25WFgz%2FvmD6qDihVONYR0SPiSI%3D"'}
+07/08/2024 05:55:33 AM Brent Order Response Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Cookie': 'JSESSIONID=1063B3371B3D0D68D1430335BADF3ADE.tomcat3', 'Content-Length': '1512', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="d2fa6b189c2fcaad525c02f9b7f25f837c30a15f",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720443332",oauth_token="ThOJbDPVGuxMuqejW%2BEsnE049KNejtTZ5eafZKEo1J0%3D",oauth_version="1.0",oauth_signature="i25WFgz%2FvmD6qDihVONYR0SPiSI%3D"'}
+07/08/2024 05:55:33 AM Brent Order Response Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Cookie': 'JSESSIONID=1063B3371B3D0D68D1430335BADF3ADE.tomcat3', 'Content-Length': '1512', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="d2fa6b189c2fcaad525c02f9b7f25f837c30a15f",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720443332",oauth_token="ThOJbDPVGuxMuqejW%2BEsnE049KNejtTZ5eafZKEo1J0%3D",oauth_version="1.0",oauth_signature="i25WFgz%2FvmD6qDihVONYR0SPiSI%3D"'}
+07/08/2024 05:55:33 AM Brent Order Response Request payload: <PlaceOrderRequest>
+                                        <orderType>EQ</orderType>
+                                        <clientOrderId>3931165508</clientOrderId>
+                                        <PreviewIds>
+    <previewId>1890104596106</previewId>
+</PreviewIds>
+                                        <Order>
+                                            <allOrNone>false</allOrNone>
+                                            <priceType>LIMIT</priceType>
+                                            <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                            <marketSession>REGULAR</marketSession>
+                                            <stopPrice>0</stopPrice>
+                                            <limitPrice>0.066</limitPrice>
+                                            <Instrument>
+                                                <Product>
+                                                    <securityType>EQ</securityType>
+                                                    <symbol>VREOF</symbol>
+                                                </Product>
+                                                <orderAction>BUY</orderAction>
+                                                <quantityType>QUANTITY</quantityType>
+                                                <quantity>1500</quantity>
+                                            </Instrument>
+                                        </Order>
+                                    </PlaceOrderRequest>
+07/08/2024 05:55:33 AM Brent Order Response Request payload: <PlaceOrderRequest>
+                                        <orderType>EQ</orderType>
+                                        <clientOrderId>3931165508</clientOrderId>
+                                        <PreviewIds>
+    <previewId>1890104596106</previewId>
+</PreviewIds>
+                                        <Order>
+                                            <allOrNone>false</allOrNone>
+                                            <priceType>LIMIT</priceType>
+                                            <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                            <marketSession>REGULAR</marketSession>
+                                            <stopPrice>0</stopPrice>
+                                            <limitPrice>0.066</limitPrice>
+                                            <Instrument>
+                                                <Product>
+                                                    <securityType>EQ</securityType>
+                                                    <symbol>VREOF</symbol>
+                                                </Product>
+                                                <orderAction>BUY</orderAction>
+                                                <quantityType>QUANTITY</quantityType>
+                                                <quantity>1500</quantity>
+                                            </Instrument>
+                                        </Order>
+                                    </PlaceOrderRequest>
+07/08/2024 05:55:33 AM Brent Order Response Request payload: <PlaceOrderRequest>
+                                        <orderType>EQ</orderType>
+                                        <clientOrderId>3931165508</clientOrderId>
+                                        <PreviewIds>
+    <previewId>1890104596106</previewId>
+</PreviewIds>
+                                        <Order>
+                                            <allOrNone>false</allOrNone>
+                                            <priceType>LIMIT</priceType>
+                                            <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                            <marketSession>REGULAR</marketSession>
+                                            <stopPrice>0</stopPrice>
+                                            <limitPrice>0.066</limitPrice>
+                                            <Instrument>
+                                                <Product>
+                                                    <securityType>EQ</securityType>
+                                                    <symbol>VREOF</symbol>
+                                                </Product>
+                                                <orderAction>BUY</orderAction>
+                                                <quantityType>QUANTITY</quantityType>
+                                                <quantity>1500</quantity>
+                                            </Instrument>
+                                        </Order>
+                                    </PlaceOrderRequest>
+07/08/2024 05:55:33 AM Brent Order Response Request payload: <PlaceOrderRequest>
+                                        <orderType>EQ</orderType>
+                                        <clientOrderId>3931165508</clientOrderId>
+                                        <PreviewIds>
+    <previewId>1890104596106</previewId>
+</PreviewIds>
+                                        <Order>
+                                            <allOrNone>false</allOrNone>
+                                            <priceType>LIMIT</priceType>
+                                            <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                            <marketSession>REGULAR</marketSession>
+                                            <stopPrice>0</stopPrice>
+                                            <limitPrice>0.066</limitPrice>
+                                            <Instrument>
+                                                <Product>
+                                                    <securityType>EQ</securityType>
+                                                    <symbol>VREOF</symbol>
+                                                </Product>
+                                                <orderAction>BUY</orderAction>
+                                                <quantityType>QUANTITY</quantityType>
+                                                <quantity>1500</quantity>
+                                            </Instrument>
+                                        </Order>
+                                    </PlaceOrderRequest>
+07/08/2024 02:12:16 PM Inside place_order
+07/08/2024 02:12:16 PM Inside place_order
+07/08/2024 02:12:16 PM Inside place_order
+07/08/2024 02:12:16 PM Inside place_order
+07/08/2024 02:12:17 PM Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Content-Length': '1223', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="bc3d7891ee2a01af2a23bb3200d642f9ed9fbcde",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720473136",oauth_token="yYgKr5nrKowJZ3yF2ToFze%2B6GlUQt89ovT0QuzL0kpQ%3D",oauth_version="1.0",oauth_signature="27jP1RB%2FlPtP190i8oceO%2FS8sV4%3D"'}
+07/08/2024 02:12:17 PM Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Content-Length': '1223', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="bc3d7891ee2a01af2a23bb3200d642f9ed9fbcde",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720473136",oauth_token="yYgKr5nrKowJZ3yF2ToFze%2B6GlUQt89ovT0QuzL0kpQ%3D",oauth_version="1.0",oauth_signature="27jP1RB%2FlPtP190i8oceO%2FS8sV4%3D"'}
+07/08/2024 02:12:17 PM Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Content-Length': '1223', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="bc3d7891ee2a01af2a23bb3200d642f9ed9fbcde",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720473136",oauth_token="yYgKr5nrKowJZ3yF2ToFze%2B6GlUQt89ovT0QuzL0kpQ%3D",oauth_version="1.0",oauth_signature="27jP1RB%2FlPtP190i8oceO%2FS8sV4%3D"'}
+07/08/2024 02:12:17 PM Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Content-Length': '1223', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="bc3d7891ee2a01af2a23bb3200d642f9ed9fbcde",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720473136",oauth_token="yYgKr5nrKowJZ3yF2ToFze%2B6GlUQt89ovT0QuzL0kpQ%3D",oauth_version="1.0",oauth_signature="27jP1RB%2FlPtP190i8oceO%2FS8sV4%3D"'}
+07/08/2024 02:12:17 PM Request payload: <PreviewOrderRequest>
+                               <orderType>EQ</orderType>
+                               <clientOrderId>9209842004</clientOrderId>
+                               <Order>
+                                   <allOrNone>false</allOrNone>
+                                   <priceType>LIMIT</priceType>
+                                   <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                   <marketSession>REGULAR</marketSession>
+                                   <stopPrice></stopPrice>
+                                   <limitPrice>1.84</limitPrice>
+                                   <Instrument>
+                                       <Product>
+                                           <securityType>EQ</securityType>
+                                           <symbol>CCRD</symbol>
+                                       </Product>
+                                       <orderAction>BUY</orderAction>
+                                       <quantityType>QUANTITY</quantityType>
+                                       <quantity>50</quantity>
+                                   </Instrument>
+                               </Order>
+                           </PreviewOrderRequest>
+07/08/2024 02:12:17 PM Request payload: <PreviewOrderRequest>
+                               <orderType>EQ</orderType>
+                               <clientOrderId>9209842004</clientOrderId>
+                               <Order>
+                                   <allOrNone>false</allOrNone>
+                                   <priceType>LIMIT</priceType>
+                                   <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                   <marketSession>REGULAR</marketSession>
+                                   <stopPrice></stopPrice>
+                                   <limitPrice>1.84</limitPrice>
+                                   <Instrument>
+                                       <Product>
+                                           <securityType>EQ</securityType>
+                                           <symbol>CCRD</symbol>
+                                       </Product>
+                                       <orderAction>BUY</orderAction>
+                                       <quantityType>QUANTITY</quantityType>
+                                       <quantity>50</quantity>
+                                   </Instrument>
+                               </Order>
+                           </PreviewOrderRequest>
+07/08/2024 02:12:17 PM Request payload: <PreviewOrderRequest>
+                               <orderType>EQ</orderType>
+                               <clientOrderId>9209842004</clientOrderId>
+                               <Order>
+                                   <allOrNone>false</allOrNone>
+                                   <priceType>LIMIT</priceType>
+                                   <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                   <marketSession>REGULAR</marketSession>
+                                   <stopPrice></stopPrice>
+                                   <limitPrice>1.84</limitPrice>
+                                   <Instrument>
+                                       <Product>
+                                           <securityType>EQ</securityType>
+                                           <symbol>CCRD</symbol>
+                                       </Product>
+                                       <orderAction>BUY</orderAction>
+                                       <quantityType>QUANTITY</quantityType>
+                                       <quantity>50</quantity>
+                                   </Instrument>
+                               </Order>
+                           </PreviewOrderRequest>
+07/08/2024 02:12:17 PM Request payload: <PreviewOrderRequest>
+                               <orderType>EQ</orderType>
+                               <clientOrderId>9209842004</clientOrderId>
+                               <Order>
+                                   <allOrNone>false</allOrNone>
+                                   <priceType>LIMIT</priceType>
+                                   <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                   <marketSession>REGULAR</marketSession>
+                                   <stopPrice></stopPrice>
+                                   <limitPrice>1.84</limitPrice>
+                                   <Instrument>
+                                       <Product>
+                                           <securityType>EQ</securityType>
+                                           <symbol>CCRD</symbol>
+                                       </Product>
+                                       <orderAction>BUY</orderAction>
+                                       <quantityType>QUANTITY</quantityType>
+                                       <quantity>50</quantity>
+                                   </Instrument>
+                               </Order>
+                           </PreviewOrderRequest>
+07/08/2024 02:12:17 PM Brent - Preview Response Body: {
+    "PreviewOrderResponse": {
+        "Disclosure": {
+            "ahDisclosureFlag": true,
+            "aoDisclosureFlag": true,
+            "conditionalDisclosureFlag": true,
+            "ehDisclosureFlag": true
+        },
+        "Order": [
+            {
+                "Instrument": [
+                    {
+                        "Product": {
+                            "securityType": "EQ",
+                            "symbol": "CCRD"
+                        },
+                        "cancelQuantity": 0.0,
+                        "orderAction": "BUY",
+                        "quantity": 50,
+                        "quantityType": "QUANTITY",
+                        "reserveOrder": true,
+                        "reserveQuantity": 0.0,
+                        "symbolDescription": "CORECARD CORPORATION COM"
+                    }
+                ],
+                "allOrNone": false,
+                "egQual": "EG_QUAL_NOT_IN_FORCE",
+                "estimatedCommission": 0,
+                "estimatedTotalAmount": 92,
+                "gcd": 0,
+                "limitPrice": 1.84,
+                "marketSession": "REGULAR",
+                "netAsk": 0,
+                "netBid": 0,
+                "netPrice": 0,
+                "orderTerm": "GOOD_FOR_DAY",
+                "priceType": "LIMIT",
+                "ratio": "",
+                "stopPrice": 0
+            }
+        ],
+        "PreviewIds": [
+            {
+                "previewId": 1891229604106
+            }
+        ],
+        "accountId": "151706697",
+        "dstFlag": true,
+        "marginBpDetails": {
+            "marginable": {
+                "currentBp": 1244.39,
+                "currentNetBp": 1244.39,
+                "currentOor": 0.0,
+                "currentOrderImpact": 92.0,
+                "netBp": 1152.39
+            },
+            "nonMarginable": {
+                "currentBp": 1244.39
+            }
+        },
+        "marginLevelCd": "MARGIN_TRADING_ALLOWED",
+        "optionLevelCd": 0,
+        "orderType": "EQ",
+        "previewTime": 1720473137019,
+        "totalOrderValue": 92
+    }
+}
+07/08/2024 02:12:17 PM Brent - Preview Response Body: {
+    "PreviewOrderResponse": {
+        "Disclosure": {
+            "ahDisclosureFlag": true,
+            "aoDisclosureFlag": true,
+            "conditionalDisclosureFlag": true,
+            "ehDisclosureFlag": true
+        },
+        "Order": [
+            {
+                "Instrument": [
+                    {
+                        "Product": {
+                            "securityType": "EQ",
+                            "symbol": "CCRD"
+                        },
+                        "cancelQuantity": 0.0,
+                        "orderAction": "BUY",
+                        "quantity": 50,
+                        "quantityType": "QUANTITY",
+                        "reserveOrder": true,
+                        "reserveQuantity": 0.0,
+                        "symbolDescription": "CORECARD CORPORATION COM"
+                    }
+                ],
+                "allOrNone": false,
+                "egQual": "EG_QUAL_NOT_IN_FORCE",
+                "estimatedCommission": 0,
+                "estimatedTotalAmount": 92,
+                "gcd": 0,
+                "limitPrice": 1.84,
+                "marketSession": "REGULAR",
+                "netAsk": 0,
+                "netBid": 0,
+                "netPrice": 0,
+                "orderTerm": "GOOD_FOR_DAY",
+                "priceType": "LIMIT",
+                "ratio": "",
+                "stopPrice": 0
+            }
+        ],
+        "PreviewIds": [
+            {
+                "previewId": 1891229604106
+            }
+        ],
+        "accountId": "151706697",
+        "dstFlag": true,
+        "marginBpDetails": {
+            "marginable": {
+                "currentBp": 1244.39,
+                "currentNetBp": 1244.39,
+                "currentOor": 0.0,
+                "currentOrderImpact": 92.0,
+                "netBp": 1152.39
+            },
+            "nonMarginable": {
+                "currentBp": 1244.39
+            }
+        },
+        "marginLevelCd": "MARGIN_TRADING_ALLOWED",
+        "optionLevelCd": 0,
+        "orderType": "EQ",
+        "previewTime": 1720473137019,
+        "totalOrderValue": 92
+    }
+}
+07/08/2024 02:12:17 PM Brent - Preview Response Body: {
+    "PreviewOrderResponse": {
+        "Disclosure": {
+            "ahDisclosureFlag": true,
+            "aoDisclosureFlag": true,
+            "conditionalDisclosureFlag": true,
+            "ehDisclosureFlag": true
+        },
+        "Order": [
+            {
+                "Instrument": [
+                    {
+                        "Product": {
+                            "securityType": "EQ",
+                            "symbol": "CCRD"
+                        },
+                        "cancelQuantity": 0.0,
+                        "orderAction": "BUY",
+                        "quantity": 50,
+                        "quantityType": "QUANTITY",
+                        "reserveOrder": true,
+                        "reserveQuantity": 0.0,
+                        "symbolDescription": "CORECARD CORPORATION COM"
+                    }
+                ],
+                "allOrNone": false,
+                "egQual": "EG_QUAL_NOT_IN_FORCE",
+                "estimatedCommission": 0,
+                "estimatedTotalAmount": 92,
+                "gcd": 0,
+                "limitPrice": 1.84,
+                "marketSession": "REGULAR",
+                "netAsk": 0,
+                "netBid": 0,
+                "netPrice": 0,
+                "orderTerm": "GOOD_FOR_DAY",
+                "priceType": "LIMIT",
+                "ratio": "",
+                "stopPrice": 0
+            }
+        ],
+        "PreviewIds": [
+            {
+                "previewId": 1891229604106
+            }
+        ],
+        "accountId": "151706697",
+        "dstFlag": true,
+        "marginBpDetails": {
+            "marginable": {
+                "currentBp": 1244.39,
+                "currentNetBp": 1244.39,
+                "currentOor": 0.0,
+                "currentOrderImpact": 92.0,
+                "netBp": 1152.39
+            },
+            "nonMarginable": {
+                "currentBp": 1244.39
+            }
+        },
+        "marginLevelCd": "MARGIN_TRADING_ALLOWED",
+        "optionLevelCd": 0,
+        "orderType": "EQ",
+        "previewTime": 1720473137019,
+        "totalOrderValue": 92
+    }
+}
+07/08/2024 02:12:17 PM Brent - Preview Response Body: {
+    "PreviewOrderResponse": {
+        "Disclosure": {
+            "ahDisclosureFlag": true,
+            "aoDisclosureFlag": true,
+            "conditionalDisclosureFlag": true,
+            "ehDisclosureFlag": true
+        },
+        "Order": [
+            {
+                "Instrument": [
+                    {
+                        "Product": {
+                            "securityType": "EQ",
+                            "symbol": "CCRD"
+                        },
+                        "cancelQuantity": 0.0,
+                        "orderAction": "BUY",
+                        "quantity": 50,
+                        "quantityType": "QUANTITY",
+                        "reserveOrder": true,
+                        "reserveQuantity": 0.0,
+                        "symbolDescription": "CORECARD CORPORATION COM"
+                    }
+                ],
+                "allOrNone": false,
+                "egQual": "EG_QUAL_NOT_IN_FORCE",
+                "estimatedCommission": 0,
+                "estimatedTotalAmount": 92,
+                "gcd": 0,
+                "limitPrice": 1.84,
+                "marketSession": "REGULAR",
+                "netAsk": 0,
+                "netBid": 0,
+                "netPrice": 0,
+                "orderTerm": "GOOD_FOR_DAY",
+                "priceType": "LIMIT",
+                "ratio": "",
+                "stopPrice": 0
+            }
+        ],
+        "PreviewIds": [
+            {
+                "previewId": 1891229604106
+            }
+        ],
+        "accountId": "151706697",
+        "dstFlag": true,
+        "marginBpDetails": {
+            "marginable": {
+                "currentBp": 1244.39,
+                "currentNetBp": 1244.39,
+                "currentOor": 0.0,
+                "currentOrderImpact": 92.0,
+                "netBp": 1152.39
+            },
+            "nonMarginable": {
+                "currentBp": 1244.39
+            }
+        },
+        "marginLevelCd": "MARGIN_TRADING_ALLOWED",
+        "optionLevelCd": 0,
+        "orderType": "EQ",
+        "previewTime": 1720473137019,
+        "totalOrderValue": 92
+    }
+}
+07/08/2024 02:12:17 PM Brent Order Response Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Cookie': 'JSESSIONID=51D775339988A7453758FC3DDA137D08.tomcat1', 'Content-Length': '1508', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="80c9c16e7d6e0fa417691686ce01168feeff14fe",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720473137",oauth_token="yYgKr5nrKowJZ3yF2ToFze%2B6GlUQt89ovT0QuzL0kpQ%3D",oauth_version="1.0",oauth_signature="UcFUn6CcYsRDfPZnIMDplOzire4%3D"'}
+07/08/2024 02:12:17 PM Brent Order Response Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Cookie': 'JSESSIONID=51D775339988A7453758FC3DDA137D08.tomcat1', 'Content-Length': '1508', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="80c9c16e7d6e0fa417691686ce01168feeff14fe",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720473137",oauth_token="yYgKr5nrKowJZ3yF2ToFze%2B6GlUQt89ovT0QuzL0kpQ%3D",oauth_version="1.0",oauth_signature="UcFUn6CcYsRDfPZnIMDplOzire4%3D"'}
+07/08/2024 02:12:17 PM Brent Order Response Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Cookie': 'JSESSIONID=51D775339988A7453758FC3DDA137D08.tomcat1', 'Content-Length': '1508', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="80c9c16e7d6e0fa417691686ce01168feeff14fe",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720473137",oauth_token="yYgKr5nrKowJZ3yF2ToFze%2B6GlUQt89ovT0QuzL0kpQ%3D",oauth_version="1.0",oauth_signature="UcFUn6CcYsRDfPZnIMDplOzire4%3D"'}
+07/08/2024 02:12:17 PM Brent Order Response Request Header: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'content-type': 'application/xml', 'consumerkey': '5d9924704d8709097e6ff7abe31c27c1', 'Cookie': 'JSESSIONID=51D775339988A7453758FC3DDA137D08.tomcat1', 'Content-Length': '1508', 'Authorization': 'OAuth realm="",oauth_consumer_key="5d9924704d8709097e6ff7abe31c27c1",oauth_nonce="80c9c16e7d6e0fa417691686ce01168feeff14fe",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1720473137",oauth_token="yYgKr5nrKowJZ3yF2ToFze%2B6GlUQt89ovT0QuzL0kpQ%3D",oauth_version="1.0",oauth_signature="UcFUn6CcYsRDfPZnIMDplOzire4%3D"'}
+07/08/2024 02:12:17 PM Brent Order Response Request payload: <PlaceOrderRequest>
+                                        <orderType>EQ</orderType>
+                                        <clientOrderId>9209842004</clientOrderId>
+                                        <PreviewIds>
+    <previewId>1891229604106</previewId>
+</PreviewIds>
+                                        <Order>
+                                            <allOrNone>false</allOrNone>
+                                            <priceType>LIMIT</priceType>
+                                            <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                            <marketSession>REGULAR</marketSession>
+                                            <stopPrice>0</stopPrice>
+                                            <limitPrice>1.84</limitPrice>
+                                            <Instrument>
+                                                <Product>
+                                                    <securityType>EQ</securityType>
+                                                    <symbol>CCRD</symbol>
+                                                </Product>
+                                                <orderAction>BUY</orderAction>
+                                                <quantityType>QUANTITY</quantityType>
+                                                <quantity>50</quantity>
+                                            </Instrument>
+                                        </Order>
+                                    </PlaceOrderRequest>
+07/08/2024 02:12:17 PM Brent Order Response Request payload: <PlaceOrderRequest>
+                                        <orderType>EQ</orderType>
+                                        <clientOrderId>9209842004</clientOrderId>
+                                        <PreviewIds>
+    <previewId>1891229604106</previewId>
+</PreviewIds>
+                                        <Order>
+                                            <allOrNone>false</allOrNone>
+                                            <priceType>LIMIT</priceType>
+                                            <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                            <marketSession>REGULAR</marketSession>
+                                            <stopPrice>0</stopPrice>
+                                            <limitPrice>1.84</limitPrice>
+                                            <Instrument>
+                                                <Product>
+                                                    <securityType>EQ</securityType>
+                                                    <symbol>CCRD</symbol>
+                                                </Product>
+                                                <orderAction>BUY</orderAction>
+                                                <quantityType>QUANTITY</quantityType>
+                                                <quantity>50</quantity>
+                                            </Instrument>
+                                        </Order>
+                                    </PlaceOrderRequest>
+07/08/2024 02:12:17 PM Brent Order Response Request payload: <PlaceOrderRequest>
+                                        <orderType>EQ</orderType>
+                                        <clientOrderId>9209842004</clientOrderId>
+                                        <PreviewIds>
+    <previewId>1891229604106</previewId>
+</PreviewIds>
+                                        <Order>
+                                            <allOrNone>false</allOrNone>
+                                            <priceType>LIMIT</priceType>
+                                            <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                            <marketSession>REGULAR</marketSession>
+                                            <stopPrice>0</stopPrice>
+                                            <limitPrice>1.84</limitPrice>
+                                            <Instrument>
+                                                <Product>
+                                                    <securityType>EQ</securityType>
+                                                    <symbol>CCRD</symbol>
+                                                </Product>
+                                                <orderAction>BUY</orderAction>
+                                                <quantityType>QUANTITY</quantityType>
+                                                <quantity>50</quantity>
+                                            </Instrument>
+                                        </Order>
+                                    </PlaceOrderRequest>
+07/08/2024 02:12:17 PM Brent Order Response Request payload: <PlaceOrderRequest>
+                                        <orderType>EQ</orderType>
+                                        <clientOrderId>9209842004</clientOrderId>
+                                        <PreviewIds>
+    <previewId>1891229604106</previewId>
+</PreviewIds>
+                                        <Order>
+                                            <allOrNone>false</allOrNone>
+                                            <priceType>LIMIT</priceType>
+                                            <orderTerm>GOOD_FOR_DAY</orderTerm>
+                                            <marketSession>REGULAR</marketSession>
+                                            <stopPrice>0</stopPrice>
+                                            <limitPrice>1.84</limitPrice>
+                                            <Instrument>
+                                                <Product>
+                                                    <securityType>EQ</securityType>
+                                                    <symbol>CCRD</symbol>
+                                                </Product>
+                                                <orderAction>BUY</orderAction>
+                                                <quantityType>QUANTITY</quantityType>
+                                                <quantity>50</quantity>
+                                            </Instrument>
+                                        </Order>
+                                    </PlaceOrderRequest>

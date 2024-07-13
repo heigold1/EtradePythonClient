@@ -59,6 +59,8 @@ def main():
     request_token, request_token_secret = etrade.get_request_token(
         params={"oauth_callback": "oob", "format": "json"})
 
+    print("\nThe request_token is :" + request_token + " and the request_token_secret is " + request_token_secret)
+
     # Step 2: Go through the authentication flow. Login to E*TRADE.
     # After you login, the page will provide a verification code to enter.
     authorize_url = etrade.authorize_url.format(etrade.consumer_key, request_token)
